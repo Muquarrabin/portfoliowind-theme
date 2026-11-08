@@ -1,0 +1,38 @@
+/*
+Theme Name: PortfolioWind
+Theme URI: https://github.com/Muquarrabin/portfoliowind-theme
+Author: Nasif Muquarrabin
+Author URI: https://nasifmuquarrabin.me
+Description: A modern, ultra-fast personal portfolio WordPress theme built with free Tailwind CSS. Non-technical users can generate their full portfolio in minutes using the zero-code 'PortfolioWind Studio' admin panel. Supports Elementor, Dark Mode, filterable projects, resume timeline, and service cards.
+Version: 1.0.1
+Requires at least: 5.8
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: portfoliowind
+Tags: portfolio, grid-layout, one-column, custom-colors, custom-menu, featured-images, theme-options, translation-ready
+
+================================================================================
+LEGAL NOTICE & COPYRIGHT TERMS (GPLv2 Section 1 & Section 2)
+Copyright (C) 2026 Nasif Muquarrabin. All rights reserved.
+Author: Nasif Muquarrabin
+GitHub: https://github.com/muquarrabin
+LinkedIn: https://www.linkedin.com/in/nasif-m-59054292/
+================================================================================
+This program is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; either version 2 of the License, or (at your option) any later version.
+
+ATTRIBUTION & INTEGRITY CLAUSE:
+Under Section 2 of GPLv2, all modified, derived, or redistributed copies of this
+work MUST prominently preserve and maintain the original author copyright notices
+and attribution headers in all source code files.
+
+TIERED LICENSING & ATTRIBUTION RIGHTS:
+- Free Tier ($0): Footer watermark removal is completely free for everyone in PortfolioWind Studio.
+- Coffee Supporter ($3+): Voluntary donation to support open-source maintenance and future releases.
+- Pro Developer License ($10+ Minimum): Allows theme code customization for client projects, unlocking the ability to add your custom watermark alone in the footer ("Theme customized by [Your Name / Agency]") with commercial client rights.
+- Upgrade Policy: Users who previously donated $3+ can upgrade by paying the remaining difference ($7+) to meet the $10+ threshold (enter both keys separated by comma).
+================================================================================
+*/

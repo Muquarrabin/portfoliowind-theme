@@ -1,0 +1,13 @@
+{
+  "name": "portfoliowind",
+  "version": "1.0.0",
+  "description": "PortfolioWind WordPress Theme with Tailwind CSS",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --watch",
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css",
+    "build:min": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
