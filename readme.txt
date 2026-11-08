@@ -1,5 +1,5 @@
 === PortfolioWind ===
-Contributors: muquarrabin
+Contributors: muquarrabin98
 Author: Nasif Muquarrabin
 Author URI: https://nasifmuquarrabin.me
 Requires at least: 5.8
